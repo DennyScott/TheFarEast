@@ -14,3 +14,5 @@ A tale.
 * Clutters of Storage, Patriotic Items
 * Old Clothing packed in boxes
 * Is seen as a warhero, doesn't want to be.
+* Older man lives in the home, went off to war for a number of years.
+* Family may have moved his things to the basement
